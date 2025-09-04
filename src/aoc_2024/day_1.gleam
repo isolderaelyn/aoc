@@ -5,3 +5,4 @@ pub fn pt_1(input: String) {
 pub fn pt_2(input: String) {
   todo as "part 2 not implemented"
 }
+//organize list "A" and "B" in increasing order
