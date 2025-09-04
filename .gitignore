@@ -1,0 +1,8 @@
+*.beam
+*.ez
+/build
+erl_crash.dump
+
+
+# Advent of Code rules state you shouldn't commit your input files
+input
